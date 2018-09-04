@@ -1,3 +1,3 @@
-<h1>Code about python network programming<h1>
+<h1>Code about python network programming</h1>
 <br>
-I'm studying "python network programming" too.
+<p>I'm studying "python network programming" too.</p>
